@@ -3,16 +3,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&repeat=true&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+%3B%E2%8A%B9+Desenvolvedor+Fullstack+%7C+Designer+UI%2FUX+%E2%8A%B9+%3B%E2%8A%B9+Powered+by+React+%26+Next.js+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-#
+
 Me chamo Finéias Jilaiassule e moro em Luanda, Angola. Sou Desenvolvedor Fullstack e Designer UI/UX, formado no Common Core da Escola 42 Luanda. Atualmente colaboro na Himersus, onde desenvolvo interfaces com React e Next.js e trabalho na definição de fluxos de utilizador e design systems em Figma.
 
-#
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+
 <h3 align="left">Connect with me!</h3>
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:fjilaiassule@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fin%C3%A9ias-jilaiassule-422607376/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6&color:FFF)](https://fineiasjilaiasssule.vercel.app/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:fjilaiassule@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fin%C3%A9ias-jilaiassule-422607376/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6&color:FFF)](https://fineiasjilaiasssule.vercel.app/)
+
 <h3 align="left">My Stack ~</h3>
+
 <img 
     align="left" 
     alt="C"
@@ -149,9 +150,12 @@ Me chamo Finéias Jilaiassule e moro em Luanda, Angola. Sou Desenvolvedor Fullst
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+
 <br/>
 <br/>
+
 <h3 align="left">GitHub Stats</h3>
+
 <p>
   <img 
     align="left" 
